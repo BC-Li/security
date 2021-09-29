@@ -2,17 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://bcli.me/security/tags/coding/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://bcli.me/security/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://bcli.me/security/tags/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+    <loc>http://bcli.me/security/outing/</loc>
+    <lastmod>2021-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://bcli.me/security/covid/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://bcli.me/security/recent/</loc>
     <lastmod>2020-10-15T00:00:00+00:00</lastmod>
@@ -20,5 +14,9 @@
     <loc>http://bcli.me/security/archives/</loc>
   </url><url>
     <loc>http://bcli.me/security/categories/</loc>
+  </url><url>
+    <loc>http://bcli.me/security/</loc>
+  </url><url>
+    <loc>http://bcli.me/security/tags/</loc>
   </url>
 </urlset>

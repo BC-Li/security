@@ -9,24 +9,33 @@
       <link>http://bcli.me/security/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://bcli.me/security/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://bcli.me/security/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>新型冠状病毒疫情分布</title>
-      <link>http://bcli.me/security/covid/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <title>出行政策查询</title>
+      <link>http://bcli.me/security/outing/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://bcli.me/security/covid/</guid>
-      <description>这是中国科学技术大学 2019 级 2 班的安全信息主页。您可以在下面找到所需的消息。</description>
+      <guid>http://bcli.me/security/outing/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>欢迎！</title>
+      <title>新型冠状病毒疫情分布</title>
+      <link>http://bcli.me/security/covid/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://bcli.me/security/covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>往期公告/安全知识</title>
       <link>http://bcli.me/security/recent/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>http://bcli.me/security/recent/</guid>
-      <description>as the title says XD</description>
+      <description>这里是往期的公告以及安全知识。
+目前还没有要发布的事项，这个页面将在群里发布公告/安全知识之后同步更新！</description>
     </item>
     
     
