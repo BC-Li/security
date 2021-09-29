@@ -1,4 +1,4 @@
-# security: an yellow page for USTC-CS-2019 students
+# security: a simple security information page made for my classmates in USTC
 
 This is an security information page made for my classmates in University of Science and Technology of China, and it is still under development.
 
