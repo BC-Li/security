@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Security page for USTC-CS-2019</title>
+    <link>http://bcli.me/security/</link>
+    <description>Recent content on Security page for USTC-CS-2019</description>
+    <image>
+      <url>http://bcli.me/security/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://bcli.me/security/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://bcli.me/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新型冠状病毒疫情分布</title>
+      <link>http://bcli.me/security/covid/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://bcli.me/security/covid/</guid>
+      <description>这是中国科学技术大学 2019 级 2 班的安全信息主页。您可以在下面找到所需的消息。</description>
+    </item>
+    
+    <item>
+      <title>欢迎！</title>
+      <link>http://bcli.me/security/recent/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://bcli.me/security/recent/</guid>
+      <description>as the title says XD</description>
+    </item>
+    
+    
+  </channel>
+</rss>
